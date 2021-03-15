@@ -1,0 +1,265 @@
+.md{/* Box Office (weekend) */
+
+
+    position: absolute;
+    width: 325.37px;
+    height: 21px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: ProximaNova;
+    font-size: 24px;
+    line-height: 21px;
+    /* identical to box height, or 87% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: rgba(0, 0, 0, 0.795488);
+}.mf {/* See more */
+
+
+position: absolute;
+width: 154px;
+height: 21px;
+left: 254px;
+top: 2px;
+
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #4A90E2;}
+.ms {/* Suicide Sqad */
+
+
+    position: absolute;
+    width: 137px;
+    height: 21px;
+    left: 52px;
+    top: 55px;
+    
+    font-family: ProximaNova;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height, or 117% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #4A90E2;}
+    .ms1 {/* $43 536 013 */
+
+
+        position: absolute;
+        width: 151px;
+        height: 21px;
+        left: 255px;
+        top: 55px;
+        
+        font-family: ProximaNova;
+        font-size: 18px;
+        line-height: 21px;
+        /* identical to box height, or 117% */
+        
+        display: flex;
+        align-items: center;
+        text-align: right;
+        
+        color: rgba(0, 0, 0, 0.795488);
+        }
+    .mn {/* Sausage Party */
+
+
+        position: absolute;
+        width: 137px;
+        height: 21px;
+        left: 52px;
+        top: 110px;
+        
+        font-family: ProximaNova;
+        font-size: 18px;
+        line-height: 21px;
+        /* identical to box height, or 117% */
+        
+        display: flex;
+        align-items: center;
+        
+        color: #4A90E2;}
+
+        .mn1 {/* $34 263 534 */
+
+
+            position: absolute;
+            width: 151px;
+            height: 21px;
+            left: 255px;
+            top: 110px;
+            
+            font-family: ProximaNova;
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height, or 117% */
+            
+            display: flex;
+            align-items: center;
+            text-align: right;
+            
+            color: rgba(0, 0, 0, 0.795488);}
+
+            .mf0 {/* Pete's Dragon */
+
+
+                position: absolute;
+                width: 137px;
+                height: 21px;
+                left: 52px;
+                top: 170px;
+                
+                font-family: ProximaNova;
+                font-size: 18px;
+                line-height: 21px;
+                /* identical to box height, or 117% */
+                
+                display: flex;
+                align-items: center;
+                
+                color: #4A90E2;
+                }
+                .mf1 {/* $21 514 095 */
+
+
+                    position: absolute;
+                    width: 151px;
+                    height: 21px;
+                    left: 255px;
+                    top: 170px;
+                    
+                    font-family: ProximaNova;
+                    font-size: 18px;
+                    line-height: 21px;
+                    /* identical to box height, or 117% */
+                    
+                    display: flex;
+                    align-items: center;
+                    text-align: right;
+                    
+                    color: rgba(0, 0, 0, 0.795488);}
+                .mj {/* Jason Bourne */
+
+
+                    position: absolute;
+                    width: 137px;
+                    height: 21px;
+                    left: 52px;
+                    top: 225px;
+                    
+                    font-family: ProximaNova;
+                    font-size: 18px;
+                    line-height: 21px;
+                    /* identical to box height, or 117% */
+                    
+                    display: flex;
+                    align-items: center;
+                    
+                    color: #4A90E2;}
+                    .mj1 {/* $13 846 875 */
+
+
+                        position: absolute;
+                        width: 151px;
+                        height: 21px;
+                        left: 255px;
+                        top: 225px;
+                        
+                        font-family: ProximaNova;
+                        font-size: 18px;
+                        line-height: 21px;
+                        /* identical to box height, or 117% */
+                        
+                        display: flex;
+                        align-items: center;
+                        text-align: right;
+                        
+                        color: rgba(0, 0, 0, 0.795488);}
+
+                        .mk {/* Bad Moms */
+
+
+                            position: absolute;
+                            width: 137px;
+                            height: 21px;
+                            left: 52px;
+                            top: 285px;
+                            
+                            font-family: ProximaNova;
+                            font-size: 18px;
+                            line-height: 21px;
+                            /* identical to box height, or 117% */
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #4A90E2;
+                            }
+                            .mk1 {/* $11 362 783 */
+
+
+                                position: absolute;
+                                width: 151px;
+                                height: 21px;
+                                left: 255px;
+                                top:285px;
+                                
+                                font-family: ProximaNova;
+                                font-size: 18px;
+                                line-height: 21px;
+                                /* identical to box height, or 117% */
+                                
+                                display: flex;
+                                align-items: center;
+                                text-align: right;
+                                
+                                color: rgba(0, 0, 0, 0.795488);}
+                                .ml {/* The Secret Life of P */
+
+
+                                    position: absolute;
+                                    width: 203px;
+                                    height: 21px;
+                                    left: 52px;
+                                    top: 345px;
+                                    
+                                    font-family: ProximaNova;
+                                    font-size: 18px;
+                                    line-height: 21px;
+                                    /* identical to box height, or 117% */
+                                    
+                                    display: flex;
+                                    align-items: center;
+                                    
+                                    color: #4A90E2;}
+                                    .ml1 {/* $9 064 565 */
+
+
+                                        position: absolute;
+                                        width: 151px;
+                                        height: 21px;
+                                        left: 255px;
+                                        top: 345px;
+                                        
+                                        font-family: ProximaNova;
+                                        font-size: 18px;
+                                        line-height: 21px;
+                                        /* identical to box height, or 117% */
+                                        
+                                        display: flex;
+                                        align-items: center;
+                                        text-align: right;
+                                        
+                                        color: rgba(0, 0, 0, 0.795488);}

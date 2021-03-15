@@ -1,0 +1,518 @@
+/* TOP 250 */
+.TOP25 {position: absolute;
+width: 325.37px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: ProximaNova;
+font-size: 24px;
+line-height: 21px;
+/* identical to box height, or 87% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+
+/* 1. */
+
+
+.qm {position: absolute;
+width: 30px;
+height: 21px;
+left: 0px;
+top: 55px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+
+color: #000000;}
+
+
+.wm {position: absolute;
+width: 24px;
+height: 21px;
+left: 0px;
+top: 110px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+.em {/* 3. */
+
+
+    position: absolute;
+    width: 20px;
+    height: 21px;
+    left: 0px;
+    top: 170px;
+    
+    font-family: ProximaNova;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height, or 117% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: rgba(0, 0, 0, 0.795488);}
+
+    .rm {position: absolute;
+        width: 19px;
+        height: 21px;
+        left: 0px;
+        top: 225px;
+        
+        font-family: ProximaNova;
+        font-size: 18px;
+        line-height: 21px;
+        /* identical to box height, or 117% */
+        
+        display: flex;
+        align-items: center;
+        
+        color: rgba(0, 0, 0, 0.795488);}
+
+        .tm{position: absolute;
+            width: 21px;
+            height: 21px;
+            left: 0px;
+            top: 285px;
+            
+            font-family: ProximaNova;
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height, or 117% */
+            
+            display: flex;
+            align-items: center;
+            
+            color: rgba(0, 0, 0, 0.795488);}
+            .ym {position: absolute;
+width: 22px;
+height: 21px;
+left: 0px;
+top: 345px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+.qt {/* The Shawshank Redemp */
+
+
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 72px;
+    top: 55px;
+    
+    font-family: ProximaNova;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height, or 117% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #4A90E2;}
+    .qt1 {/* 9.198 */
+
+
+        position: absolute;
+        width: 74px;
+        height: 21px;
+        left: 333px;
+        top: 55px;
+        
+        font-family: ProximaNova;
+        font-size: 18px;
+        line-height: 21px;
+        /* identical to box height, or 117% */
+        
+        display: flex;
+        align-items: center;
+        text-align: right;
+        
+        color: rgba(0, 0, 0, 0.795488);}
+
+        .wt{/* The Green Mile */
+
+
+            position: absolute;
+            width: 146px;
+            height: 21px;
+            left: 72px;
+            top: 110px;
+            
+            font-family: ProximaNova;
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height, or 117% */
+            
+            display: flex;
+            align-items: center;
+            
+            color: #4A90E2;
+            }
+        .wt1 {position: absolute;
+            width: 84px;
+            height: 21px;
+            left: 333px;
+            top: 110px;
+            
+            font-family: ProximaNova;
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height, or 117% */
+            
+            display: flex;
+            align-items: center;
+            text-align: right;
+            
+            color: rgba(0, 0, 0, 0.795488);}
+
+            .et{/* Forrest Gump */
+
+
+                position: absolute;
+                width: 137px;
+                height: 21px;
+                left: 72px;
+                top: 170px;
+                
+                font-family: ProximaNova;
+                font-size: 18px;
+                line-height: 21px;
+                /* identical to box height, or 117% */
+                
+                display: flex;
+                align-items: center;
+                
+                color: #4A90E2;
+                }
+.et1{/* 9.003 */
+
+
+    position: absolute;
+    width: 84px;
+    height: 21px;
+    left: 333px;
+    top: 170px;
+    
+    font-family: ProximaNova;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height, or 117% */
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+    color: rgba(0, 0, 0, 0.795488);}
+
+    .rt {/* Schindler's List */
+
+
+        position: absolute;
+        width: 137px;
+        height: 21px;
+        left: 72px;
+        top: 225px;
+        
+        font-family: ProximaNova;
+        font-size: 18px;
+        line-height: 21px;
+        /* identical to box height, or 117% */
+        
+        display: flex;
+        align-items: center;
+        
+        color: #4A90E2;
+        }
+
+        .rt1 {/* 8.893 */
+
+
+            position: absolute;
+            width: 71px;
+            height: 21px;
+            left: 334px;
+            top: 225px;
+            
+            font-family: ProximaNova;
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height, or 117% */
+            
+            display: flex;
+            align-items: center;
+            text-align: right;
+            
+            color: rgba(0, 0, 0, 0.795488);}
+.tt {position: absolute;
+    width: 137px;
+    height: 21px;
+    left: 72px;
+    top: 285px;
+    
+    font-family: ProximaNova;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height, or 117% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #4A90E2;
+    }
+    .tt1 {/* 8.873 */
+
+
+        position: absolute;
+        width: 70px;
+        height: 21px;
+        left: 335px;
+        top: 285px;
+        
+        font-family: ProximaNova;
+        font-size: 18px;
+        line-height: 21px;
+        /* identical to box height, or 117% */
+        
+        display: flex;
+        align-items: center;
+        text-align: right;
+        
+        color: rgba(0, 0, 0, 0.795488);
+        }
+
+        .yt {/* Inception */
+
+
+            position: absolute;
+            width: 203px;
+            height: 21px;
+            left: 72px;
+            top: 345px;
+            
+            font-family: ProximaNova;
+            font-size: 18px;
+            line-height: 21px;
+            /* identical to box height, or 117% */
+            
+            display: flex;
+            align-items: center;
+            
+            color: #4A90E2;}
+            .yt1 {/* 8.770 */
+
+
+                position: absolute;
+                width: 151px;
+                height: 21px;
+                left: 336px;
+                top: 345px;
+                
+                font-family: ProximaNova;
+                font-size: 18px;
+                line-height: 21px;
+                /* identical to box height, or 117% */
+                
+                display: flex;
+                align-items: center;
+                text-align: right;
+                
+                color: rgba(0, 0, 0, 0.795488);
+                }
+                .seen {/* See more */
+
+
+                    position: absolute;
+                    width: 154px;
+                    height: 21px;
+                    left: 253px;
+                    top: 2px;
+                    
+                    font-family: ProximaNova;
+                    font-size: 16px;
+                    line-height: 21px;
+                    /* identical to box height, or 131% */
+                    
+                    display: flex;
+                    align-items: center;
+                    text-align: right;
+                    
+                    color: #4A90E2;
+                    }
+
+                    .xt {/* Guardians of the Gal */
+
+
+                        position: absolute;
+                        width: 307px;
+                        height: 22px;
+                        left: 12px;
+                        top: 238px;
+                        
+                        font-family: ProximaNova;
+                        font-size: 18px;
+                        line-height: 21px;
+                        display: flex;
+                        align-items: flex-end;
+                        
+                        color: #FFFFFF;}
+
+                        .xu {position: absolute;
+                            width: 49px;
+                            height: 16px;
+                            left: 20px;
+                            top: 280px;
+                            
+                            font-family: ProximaNova;
+                            font-size: 13px;
+                            line-height: 15px;
+                            /* identical to box height */
+                            
+                            display: flex;
+                            align-items: flex-end;
+                            text-align: center;
+                            
+                            color: #FFFFFF;
+                            }
+                            .xa {position: absolute;
+                                width: 65px;
+                                height: 16px;
+                                left: 85px;
+                                top: 280px;
+                                
+                                font-family: ProximaNova;
+                                font-size: 13px;
+                                line-height: 15px;
+                                /* identical to box height */
+                                
+                                display: flex;
+                                align-items: flex-end;
+                                text-align: center;
+                                
+                                color: #FFFFFF;
+                                }
+                                .xs{/* sci-fi */
+
+
+                                    position: absolute;
+                                    width: 49px;
+                                    height: 16px;
+                                    left: 168px;
+                                    top: 280px;
+                                    
+                                    font-family: ProximaNova;
+                                    font-size: 13px;
+                                    line-height: 15px;
+                                    /* identical to box height */
+                                    
+                                    display: flex;
+                                    align-items: flex-end;
+                                    text-align: center;
+                                    
+                                    color: #FFFFFF;}
+                    .xh {/* western */
+
+
+                        position: absolute;
+                        width: 49px;
+                        height: 16px;
+                        left: 220px;
+                        top: 280px;
+                        
+                        font-family: ProximaNova;
+                        font-size: 13px;
+                        line-height: 15px;
+                        /* identical to box height */
+                        
+                        display: flex;
+                        align-items: flex-end;
+                        text-align: center;
+                        
+                        color: rgba(255, 255, 255, 0.58806);
+                        }
+                        .xc{
+                            /* detective */
+                            
+                            
+                            position: absolute;
+                            width: 61px;
+                            height: 16px;
+                            left: 294px;
+                            top: 280px;
+                            
+                            font-family: ProximaNova;
+                            font-size: 13px;
+                            line-height: 15px;
+                            /* identical to box height */
+                            
+                            display: flex;
+                            align-items: flex-end;
+                            text-align: center;
+                            
+                            color: rgba(255, 255, 255, 0.58806);
+                            }
+                            .xv {/* criminal */
+
+
+                                position: absolute;
+                                width: 61px;
+                                height: 16px;
+                                left: 373px;
+                                top: 280px;
+                                
+                                font-family: ProximaNova;
+                                font-size: 13px;
+                                line-height: 15px;
+                                /* identical to box height */
+                                
+                                display: flex;
+                                align-items: flex-end;
+                                text-align: center;
+                                
+                                color: rgba(255, 255, 255, 0.58806);
+                                }
+.xrr {/* Randomize */
+
+
+    position: absolute;
+    width: 384px;
+    height: 26px;
+    left: 25px;
+    top: 330px;
+    
+    font-family: ProximaNova;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }

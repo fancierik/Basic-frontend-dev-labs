@@ -1,0 +1,410 @@
+/* Last News */
+
+
+.Last {position: absolute;
+width: 325.37px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: ProximaNova;
+font-size: 24px;
+line-height: 21px;
+/* identical to box height, or 87% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Top | Movies | TV | */
+
+
+.TV  {position: absolute;
+width: 215.29px;
+height: 21px;
+left: 148.07px;
+top: 0px;
+
+font-family: ProximaNova;
+font-size: 15px;
+line-height: 21px;
+/* identical to box height, or 140% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Jared Leto Joins ‘Bl */
+
+
+.Leto {position: absolute;
+width: 265.9px;
+height: 42px;
+left: 147.1px;
+top: 35px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+/* or 117% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Jared Leto has joine */
+
+
+.has {position: absolute;
+width: 248.41px;
+height: 60px;
+left: 147.1px;
+top: 82.22px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+/* Toho to Produce Firs */
+
+
+.toxo {position: absolute;
+width: 248.41px;
+height: 42px;
+left: 147.1px;
+top: 160px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+/* or 117% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Tokyo – Japan’s movi */
+
+
+.tokio {position: absolute;
+width: 248.41px;
+height: 60px;
+left: 147.1px;
+top: 204.2px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Watch Mysterious New */
+
+
+.watch {position: absolute;
+width: 259.9px;
+height: 42px;
+left: 147.1px;
+top: 280px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+/* or 117% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+/* Leave it to Ryan Mur */
+
+
+.leave {position: absolute;
+width: 249.38px;
+height: 60px;
+left: 147.1px;
+top: 324.2px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Born today */
+
+
+.ghj {position: absolute;
+width: 334px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: ProximaNova;
+font-size: 24px;
+line-height: 21px;
+/* identical to box height, or 87% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+.yui {position: absolute;
+width: 154px;
+height: 21px;
+left: 256px;
+top: 2px;
+
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #4A90E2;}
+/* Keanu Reeves */
+
+
+.keanu {position: absolute;
+width: 82px;
+height: 28px;
+left: 2px;
+top: 148px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+color: #4A90E2;}
+
+/* /* Salma Hayek */
+
+
+.Salma {position: absolute;
+width: 81.14px;
+height: 28px;
+left: 86px;
+top: 148px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+/* Mark Harmon */
+
+
+.Mark {position: absolute;
+width: 81px;
+height: 28px;
+left: 170px;
+top: 148px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+/* Cynthia Watros */
+
+
+.Cynthia {position: absolute;
+width: 82px;
+height: 28px;
+left:252px;
+top: 148px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+
+/* Austin Abrams */
+
+
+.Austin {position: absolute;
+width: 82px;
+height: 28px;
+left: 336px;
+top: 148px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+/* See on Netflix */
+
+
+.Netflix { position: absolute;
+width: 334px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: ProximaNova;
+font-size: 24px;
+line-height: 21px;
+/* identical to box height, or 87% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+/* Daredevil */
+
+
+.Daredevil {position: absolute;
+width: 82px;
+height: 14px;
+left: 2px;
+top: 149px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+
+/* Black Mirror */
+
+
+.mirror {position: absolute;
+    width: 82px;
+    height: 14px;
+    left: 86px;
+    top: 156px;
+    
+    font-family: ProximaNova;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #4A90E2;
+    }
+/* Jessica Jones */
+
+
+.Jessica {position: absolute;
+width: 81px;
+height: 28px;
+left: 170px;
+top: 149px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+/* House of Cards */
+
+
+.House {position: absolute;
+width: 82px;
+height: 28px;
+left: 252px;
+top: 149px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+
+/* Sense8 */
+
+
+.Sense8 {position: absolute;
+width: 82px;
+height: 14px;
+left: 336px;
+top: 149px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+
+display: flex;
+align-items: center;
+
+color: #4A90E2;}
+/* Today's wallpapers */
+
+
+.wallpapers {position: absolute;
+width: 334px;
+height: 21px;
+left: 2px;
+top: 0px;
+
+font-family: ProximaNova;
+font-size: 24px;
+line-height: 21px;
+/* identical to box height, or 87% */
+
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.795488);}
+
+
+
+
