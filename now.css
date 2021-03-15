@@ -1,0 +1,305 @@
+/* Now playing */
+.Now {position: absolute;
+width: 1331px;
+height: 370px;
+right: -31px;
+top: 79px;}
+
+/* Next */
+.Next {position: absolute;
+width: 36px;
+height: 368px;
+left: 1265px;
+top: 1px;}
+
+/* Shape */
+.Shapen {position: absolute;
+width: 11px;
+height: 26px;
+left: 14px;
+top: 171px;
+background: rgba(255, 255, 255, 0.8);}
+
+/* Rectangle 5 Copy */
+.Rectanglen {position: absolute;
+width: 36px;
+height: 368px;
+left: 0px;
+top: 0px;
+background: rgba(0, 0, 0, 0.33);}
+
+/* Now playing */
+.Now1 {position: absolute;
+width: 35px;
+height: 370px;
+left: 0px;
+top: 0px;}
+
+/* NOW PLAYING */
+.NOWt {position: absolute;
+width: 369px;
+height: 20px;
+left: -165px;
+top: 129.5px;
+font-family: ProximaNova;
+font-size: 19px;
+line-height: 20px;
+/* identical to box height, or 105% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 8.55px;
+color: #FFFFFF;
+transform: rotate(-90deg);}
+
+/* Rectangle 5 */
+.Rectanglen1 {position: absolute;
+width: 35px;
+height: 368px;
+left: 0px;
+top: 1px;
+background: #2998E2;}
+
+/* Hover */
+.Hovern {position: absolute;
+width: 253px;
+height: 368px;
+left: 803px;
+top: 1px;}
+
+/* list */
+.list {position: absolute;
+width: 252px;
+height: 57px;
+left: 0px;
+top: 278px;}
+
+/* ic_remove_red_eye_black_24px */
+.ic_remove_red_eye_black_24px {position: absolute;
+width: 32px;
+height: 32px;
+left: 111px;
+top: 0px;}
+
+
+
+
+/* 1 */
+.gth {position: absolute;
+width: 274px;
+height: 368px;
+left: 35px;
+top: 1px;}
+/* Action, adventure, f */
+.Action {position: absolute;
+width: 252px;
+height: 17px;
+left: 21.1px;
+top: 333px;
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+color: rgba(255, 255, 255, 0.58373);}
+/* Assassin's Creed */
+.Assassin {position: absolute;
+width: 252px;
+height: 22px;
+left: 21.1px;
+top: 305px;
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: flex-end;
+color: #FFFFFF;}
+/* Object */
+.Object1 {position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;}
+/* Rectangle 2 Copy 10 */
+.Rectangleo {position: absolute;
+width: 252px;
+height: 368px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 47.96%, rgba(23, 23, 23, 0.750368) 100%);}
+/* Rectangle 2 Copy 10 */
+
+.Rectangleq {position: absolute;
+width: 252px;
+height: 368px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 47.96%, rgba(23, 23, 23, 0.750368) 100%);}
+/* Object */
+.Object2 {position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;}
+/* Assasin;s */
+.Assasink {position: absolute;
+width: 264px;
+height: 391px;
+left: 0px;
+top: 0px;
+}
+/* Rectangle 2 */
+.Rectanglee {position: absolute;
+width: 252px;
+height: 368px;
+left: 0px;
+top: 0px;
+background: #7E7E7E;}
+/* Rectangle 2 */
+
+
+/* 2 */
+.ldf {position: absolute;
+width: 763px;
+height: 368px;
+left: 291px;
+top: 1px;}
+
+/* Add to watch list */
+
+
+.Addn {position: absolute;
+width: 262px;
+height: 26px;
+left: 501px;
+top: 290px;
+
+font-family: ProximaNova;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;}
+
+/* Adventure, family, f */
+
+
+.Adventure {position: absolute;
+width: 252px;
+height: 17px;
+left: 21px;
+top: 333px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.58373);}
+/* Fantastic Beasts and */
+.Fantastic {position: absolute;
+width: 252px;
+height: 44px;
+left: 21px;
+top: 283px;
+
+font-family: ProximaNova;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: flex-end;
+
+color: #FFFFFF;}
+/* Object */
+
+
+.Object3 {position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;}
+
+/* Rectangle 2 Copy 10 */
+
+
+.Rectangle3 {position: absolute;
+width: 252px;
+height: 368px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 37.41%, rgba(23, 23, 23, 0.917403) 100%);}
+/* Object */
+
+
+.Object4 {position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;}
+/* Fantastic */
+.jkk {position: absolute;
+width: 282px;
+height: 418px;
+left: 0px;
+top: 0px;
+}
+/* 3 */
+.nhb {position: absolute;
+width: 274px;
+height: 368px;
+left: 547px;
+top: 1px;}
+
+/* 4 */
+.xtu {position: absolute;
+width: 252px;
+height: 368px;
+left: 803px;
+top: 1px;}
+
+.sk {position: absolute;
+width: 258px;
+height: 368px;
+left: 0px;
+top: 0px;
+background: url(Image.png);}
+
+
+/* 5 */
+
+.gznm {position: absolute;
+    width: 272px;
+    height: 368px;
+    left: 1059px;
+    top: 1px;}
+    /* Rectangle 5 Copy */
+
+
+.uu{position: absolute;
+width: 36px;
+height: 368px;
+right: 30px;
+top: 0px;}
+/* JB Trailer */
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
