@@ -1,8 +1,2 @@
-
-<p>Скриншот полученной страницы представлен на рисунке 1.1.</p>
-
-<img src="html4.png (file://LAPTOP-E7LA2MAM/Users/Huawei/Pictures/Screenshots/html4.png)" />
-
-
-
-<p align="center" >Рисунок 1.1 - Скриншот полученной страницы</p>
+ <img src="https://github.com/AnnaOvcharuk1/Basic-frontend-dev-labs/blob/lab2/%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D1%81%D0%B0%D1%86%D0%B8%D1%8F.png" alt="">
+ <p align="center" >Рисунок 2 - Скриншот полученной страницы</p>
