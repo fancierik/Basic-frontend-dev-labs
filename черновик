@@ -1,16 +1,8 @@
 
-<p style="color: red; font-size: 2em">Задание 2</p>
-Создайте файл index.html, используя html5 разметку. Файл должен реализовывать предыдущее задание с использованием языка html5. Готовым решением будет успешное прохождение проверки валидации. Сделайте выводы по эволюции стандарта html5 и принципов преобразования (конвертации) документов из стандарта html 4 в версию 5 .
+<p>Скриншот полученной страницы представлен на рисунке 1.1.</p>
 
-<p><br>Решение</p>
-<p>Скриншот полученной страницы представлен на рисунке 2.1.</p>
+<img src="html4.png (file://LAPTOP-E7LA2MAM/Users/Huawei/Pictures/Screenshots/html4.png)" />
 
-<img src="https://drive.google.com/uc?export=view&id=1EFnhwYqRaXmRb_YWQDzrHffjJNrgQKG-" />
 
-<p align="center" >Рисунок 2.1 - Скриншот полученной страницы</p>
 
-<p>Результат валидации базовой страницы представлен на рисунке 2.2.</p>
-
-<img src="https://drive.google.com/uc?export=view&id=1V-fZMSlZcDdniV6hNFUWyyssz7LH7U-0" />
-
-<p align="center" >Рисунок 2.2 - Результат валидации базовой страницы</p>.
+<p align="center" >Рисунок 1.1 - Скриншот полученной страницы</p>
