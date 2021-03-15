@@ -1,0 +1,500 @@
+/* Jason Bourne */
+
+
+.Jason {position: absolute;
+width: 1301px;
+height: 410px;
+right: -1px;
+top: 451px;}
+
+/* Rectangle 5 */
+
+
+.krfc {position: absolute;
+width: 34px;
+height: 409px;
+left: 0px;
+top: 0px;
+
+background: #EA4737;}
+/* Rectangle 7 */
+
+
+.bl {position: absolute;
+width: 542px;
+height: 409px;
+left: 0px;
+top: 0px;
+
+background: #07131B;}
+/* Pictures */
+
+
+.Pictures {position: absolute;
+width: 500px;
+height: 395px;
+left: 38px;
+top: 10px;}
+/* Group 10 */
+
+
+.Group10 {position: absolute;
+width: 156px;
+height: 221px;
+left: 52px;
+top: 16px;}
+
+.xbn {position: absolute;
+width: 54px;
+height: 20px;
+left: 420px;
+top: 168px;}
+
+.hjk7 {position: absolute;
+    width: 52px;
+    height: 20px;
+    left: 352px;
+    top: 168px;}
+    /* Jason Bourne */
+
+
+.pfujkjdjr {position: absolute;
+width: 275.57px;
+height: 31px;
+left: 229px;
+top: 12px;
+font-family: ProximaNova;
+font-size: 26px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+color: #FFFFFF;}
+/* year */
+
+
+.year {position: absolute;
+width: 72px;
+height: 17px;
+left: 229px;
+top: 59px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: #70B0FF;}
+/* country */
+
+
+.country {position: absolute;
+width: 72px;
+height: 17px;
+left: 229px;
+top: 91px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: #70B0FF;}
+
+/* director */
+
+
+.director {position: absolute;
+width: 72px;
+height: 17px;
+left: 229px;
+top: 123px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: #70B0FF;}
+
+/* genres */
+
+
+.genres {position: absolute;
+width: 72px;
+height: 17px;
+left: 229px;
+top: 155px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: #70B0FF;}
+
+/* budget */
+
+
+.budget {position: absolute;
+width: 72px;
+height: 17px;
+left: 229px;
+top: 187px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: #70B0FF;}
+
+/* duration */
+
+
+.duration {position: absolute;
+width: 72px;
+height: 17px;
+left: 229px;
+top: 219px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: #70B0FF;}
+
+/* 2016 */
+
+
+.ujl {position: absolute;
+width: 72px;
+height: 17px;
+left: 339px;
+top: 59px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.797328);}
+
+/* USA */
+
+
+.usa {position: absolute;
+width: 72px;
+height: 17px;
+left: 339px;
+top: 91px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.797328);}
+
+/* Paul Greengrass */
+
+
+.Paul {position: absolute;
+width: 142px;
+height: 17px;
+left: 339px;
+top: 123px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.797328);}
+
+/* action */
+
+
+.action1 {position: absolute;
+width: 49px;
+height: 16px;
+left: 3px;
+top: 1px;
+
+font-family: ProximaNova;
+font-size: 13px;
+line-height: 15px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;}
+
+/* thriller */
+.thriller {position: absolute;
+width: 49px;
+height: 16px;
+left: 4px;
+top: 1px;
+
+font-family: ProximaNova;
+font-size: 13px;
+line-height: 15px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;}
+/* $120 000 000 */
+
+
+.lyym{position: absolute;
+width: 129px;
+height: 17px;
+left: 339px;
+top: 187px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.797328);}
+
+
+/* 123 min */
+
+
+.min {position: absolute;
+width: 72px;
+height: 17px;
+left: 339px;
+top: 219px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+
+color: rgba(255, 255, 255, 0.797328);}
+
+/* You might remember t */
+
+
+.youu {position: absolute;
+width: 471px;
+height: 63px;
+left: 54px;
+top: 248px;
+
+font-family: ProximaNova;
+font-size: 14px;
+line-height: 21px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.797328);}
+
+.Trailer {position: absolute;
+    width: 759px;
+    height: 409px;
+    left: 542px;
+    top: 0px;}
+    /* Last News */
+
+
+.news {position: absolute;
+width: 414px;
+height: 381px;
+left: 15px;
+top: 891px;}
+
+/* Born today */
+
+
+.Born {position: absolute;
+width: 413px;
+height: 181px;
+right: 443px;
+top: 893px;}
+
+/* See on Netflix */
+
+
+.See {position: absolute;
+width: 414px;
+height: 182px;
+right: 441px;
+bottom: 920px;}
+/* Today's wallpapers */
+
+
+.Today {position: absolute;
+width: 407px;
+height: 379px;
+right: 15px;
+top: 893px;}
+
+/* TOP 250 */
+
+
+.TOP {position: absolute;
+width: 407px;
+height: 383px;
+left: 16px;
+bottom: 480px;}
+
+/* Random Movie */
+
+
+.Random {position: absolute;
+width: 435px;
+height: 383px;
+right: 419px;
+bottom: 480px;}
+
+/* Box office */
+
+
+.office {position: absolute;
+width: 408px;
+height: 383px;
+right: 15px;
+bottom: 480px;}
+/* Recently ciewed */
+
+
+.Recently {position: absolute;
+width: 1310px;
+height: 147px;
+right: -26px;
+bottom: 304px;}
+
+/* Footer */
+
+
+.Footer {position: absolute;
+width: 1274px;
+height: 257px;
+right: 11px;
+bottom: 11px;
+}
+/* IMDb everywhere */
+
+
+.everywhere {position: absolute;
+width: 391px;
+height: 197px;
+left: 0px;
+top: 10px;}
+
+/*  Follow IMDb on */
+.Follow {position: absolute;
+width: 202px;
+height: 164px;
+left: 422px;
+top: 7px;}
+
+/* Flickr */
+
+
+.Flickr {position: absolute;
+width: 202px;
+height: 167px;
+left: 650px;
+top: 10px;}
+
+/* Links */
+
+
+.Links {position: absolute;
+width: 396px;
+height: 203px;
+left: 878px;
+top: 0px;
+}
+/* Amazon */
+
+
+.Amazon {position: absolute;
+width: 1268px;
+height: 23px;
+left: 1px;
+top: 234px;}
+/* Separators */
+
+
+.Separators {position: absolute;
+width: 1300px;
+height: 607px;
+left: calc(50% - 1300px/2);
+bottom: 286px;}
+/* Sep */
+
+
+.Sep2 {position: absolute;
+width: 1300px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.149994);}
+
+.fg {position: absolute;
+width: 1300px;
+height: 1px;
+left: 0px;
+top: 606px;
+
+background: rgba(0, 0, 0, 0.149994);}
+
+
+
+
+
+
+
+
+
+
+

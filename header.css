@@ -1,0 +1,317 @@
+/* IMDb concept */
+.IMDb {position: relative;
+width: 1300px;
+height: 2195px;
+background: #454545;
+top: 80px;
+left:125px;}
+/* BG */
+.BG {position: relative;
+width: 1600px;
+height: 2395px;
+background: #ca138d;}
+/* Rectangle 13 */
+.Rectangle13 {position: absolute;
+width: 1625px;
+height: 2677px;
+right: -16px;
+bottom: -150px;
+background: linear-gradient(0deg, #5F7AD3, #5F7AD3);}
+
+/* Rectangle */
+.Rectangleb {position: absolute;
+width: 1300px;
+height: 2202px;
+left: calc(50% - 1300px/2);
+top: -7px;
+background: #ffffff;}
+
+/* Header */
+.header{position: absolute;
+width: 1251px;
+height: 80px;
+left: 20px;
+top: 0px;
+background: #ffffff;}
+
+/* Search */
+.Search {position: absolute;
+width: 32px;
+height: 32px;
+left: 1145px;
+top: 23px;}
+
+/* Shape */
+.shape {position: absolute;
+width: 20px;
+height: 20px;
+left: 5.16px;
+top: 7.16px;
+background: rgba(0, 0, 0, 0.4);}
+
+/* Path */
+.Path {position: absolute;
+width: 9.29px;
+height: 9.29px;
+left: 2.5px;
+top: 2.8px; border-radius: 50%;
+background: #ffffff;}
+
+/* Path */
+.Path1 {position: absolute;
+width: 20px;
+height: 20px;
+left: 0px;
+top: 0px;
+background: #ffffff;}
+
+/* Shape */
+.Shape1  {position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;}
+
+
+
+
+
+
+
+/* Menu */
+.Menu {position: absolute;
+width: 552px;
+height: 80px;
+left: 327px;
+top: 0px;}
+
+/* Hover */
+.Hover {position: absolute;
+width: 110px;
+height: 80px;
+left: 200px;
+top: 0px;
+background: #EA4737;}
+
+
+     /* Society */
+     .Society {position: absolute;
+     width: 53px;
+height: 19px;
+left: 29px;
+top: 32px;
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #970000;
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.0988451);} 
+
+/* Shape */
+.Shape {position: absolute;
+width: 12px;
+height: 20px;
+left: 82px;
+top: 53px;
+background: #FFFFFF;
+}
+
+/* Rectangle 14 */
+.Rectangle {position: absolute;
+width: 110px;
+height: 80px;
+left: 0px;
+top: 0px;
+background: #EA4737;}
+
+/* DVD & Blu-Ray */
+.DVD {position: absolute;
+width: 115px;
+height: 19px;
+left: 447px;
+top: 32px;
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+color: rgba(0, 0, 0, 0.698398);}
+
+/* Ratings */
+.Ratings {position: absolute;
+width: 52px;
+height: 19px;
+left: 338px;
+top: 32px;
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 19px;
+/* idntical to box height */
+display: flex;
+align-items: flex-end;
+color: rgba(0, 0, 0, 0.698398);}
+
+/* Society */
+.Society {position: absolute;
+width: 52px;
+height: 19px;
+left: 229px;
+top: 32px;
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+color: rgba(0, 0, 0, 0.698398);}
+
+/* Media */
+.Media {position: absolute;
+width: 44px;
+height: 19px;
+left: 129px;
+top: 32px;
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+color: rgba(0, 0, 0, 0.698398);}
+
+/* Box Office */
+.Box {position: absolute;
+width: 73px;
+height: 19px;
+left: 0px;
+top: 32px;
+font-family: ProximaNova;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+color: rgba(0, 0, 0, 0.698398);}
+
+/* Logo */
+.Logo {position: absolute;
+width: 115px;
+height: 59px;
+left: 0px;
+top: 13px;}
+
+/* Shape */
+.Shapel {position: absolute;
+width: 18.34px;
+height: 32.28px;
+left: 79.26px;
+top: 13.97px;
+background: #ffffff;}
+
+/* Path */
+.Pathl {position: absolute;
+width: 18.34px;
+height: 32.28px;
+left: 0px;
+top: 0px;
+background: #DADADA;}
+
+/* Path */
+.Pathl1 {position: absolute;
+width: 2.45px;
+height: 17.72px;
+left:0px;
+top: 0px;
+background: #DADADA;}
+
+/* Shape */
+.Shapel1 {position: absolute;
+width: 19.13px;
+height: 31.81px;
+left: 57.5px;
+top: 13.97px;
+background: #ffffff;}
+
+/* Path */
+.Pathl12 {position: absolute;
+width: 19.13px;
+height: 31.81px;
+left:0px;
+top: 0px;
+background: #DADADA;}
+
+/* Path */
+.Pathl123 {position: absolute;
+width: 2.58px;
+height: 20.97px;
+left: 0px;
+top: 0px;
+background: #DADADA;}
+
+/* Shape */
+.Shape2 {position: absolute;
+width: 25.55px;
+height: 31.81px;
+left: 29.53px;
+top: 13.97px;
+background: #ffffff;}
+
+/* Rectangle-path */
+.Rectangle-path {position: absolute;
+width: 8.28px;
+height: 31.81px;
+left: 17.09px;
+top: 13.97px;
+background: #ffffff;}
+
+/* Rectangle 15 */
+.Rectangle {position: absolute;
+visibility: hidden;
+width: 115px;
+height: 59px;
+left: 0px;
+top: 0px;
+background: #EDD940;}
+
+/* 8 */
+.eath {position: absolute;
+width: 18px;
+height: 16px;
+left: 1233px;
+top: 14px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #ffffff;
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.0988451);}
+
+/* Oval 4 */
+.Oval1 {position: absolute;
+width: 18px;
+height: 18px;
+left: 1225px;
+top: 10px;
+background: #00C853; border-radius: 50%;
+border: 3px solid #FFFFFF;}
+
+/* Oval */
+.Oval2 {position: absolute;
+width: 42px;
+height: 42px;
+left: 1198px;
+top: 19px; border-radius: 50%;
+}
+
+
+
+
+
