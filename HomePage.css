@@ -1,0 +1,73 @@
+.gradient {
+    background: url(https://i.ibb.co/SJtbGRL/122w.png);
+    background-size: cover;
+  }
+  .css { left: 100
+
+  }
+  .preloader {
+    /*фиксированное позиционирование*/
+    position: fixed;
+    /* координаты положения */
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    /* фоновый цвет элемента */
+    background: #e0e0e0;
+    /* размещаем блок над всеми элементами на странице (это значение должно быть больше, чем у любого другого позиционированного элемента на странице) */
+    z-index: 1001;
+  }
+
+  .preloader__row {
+    position: relative;
+    top: 50%;
+    height: 70px;
+    margin-top: -35px;
+    margin-left: -35px;
+    text-align: center;
+  }           
+  
+
+  .loaded_hiding .preloader {
+    transition: 0.534s opacity;
+    opacity: 1;
+  }
+
+  .loaded .preloader {
+    display: none;
+  }
+
+  .pic {opacity: 0.6;
+    background: rgb(117, 136, 199);}
+
+.bg-bluecolor1{
+    background-color: #5A98D0;
+}
+
+.bg-bluecolor2{
+  background-color: #1F3F68;
+}
+
+.bg-bluecolor3{
+  background-color: #316099;
+}
+
+.border-radius1{
+  border-top-left-radius: 180px 180px;
+}
+
+.border-radius2{
+  border-top-right-radius: 180px 180px;
+}
+
+.text-color1 {
+  color: #1F3F68;
+}
+
+.text-color2 {
+  color: #356EAD;
+}
+.bg-color3 {
+  background-color: #5A98D0;
+}
