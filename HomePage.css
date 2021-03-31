@@ -1,0 +1,38 @@
+.gradient {
+    background: url(https://i.ibb.co/wYsMpLZ/imgonline-com-ua-Pic-On-Pic-e-R7k-Irm3ma.jpg);
+    background-size: cover;
+  }
+
+  .pic {opacity: 0.6;
+    background: rgb(117, 136, 199);}
+
+.bg-bluecolor1{
+    background-color: #5A98D0;
+}
+
+.bg-bluecolor2{
+  background-color: #1F3F68;
+}
+
+.bg-bluecolor3{
+  background-color: #316099;
+}
+
+.border-radius1{
+  border-top-left-radius: 180px 180px;
+}
+
+.border-radius2{
+  border-top-right-radius: 180px 180px;
+}
+
+.text-color1 {
+  color: #1F3F68;
+}
+
+.text-color2 {
+  color: #356EAD;
+}
+.bg-color3 {
+  background-color: #5A98D0;
+}
