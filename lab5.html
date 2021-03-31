@@ -4,15 +4,24 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>HomePage</title>
+<title>Lab5</title>
+<link rel="stylesheet" href="xcm.css">
 <link rel="stylesheet" href="HomePage.css">
 <link rel="stylesheet" href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" >
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <script src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>
-  <script src="/script.js"></script>
+  <script type="text/javascript" src="script.js"></script>
+  <script type="text/javascript" src="buttom.js"></script>
 
 </head>
 <body>
+  <div class="preloader">
+    <div class="preloader__row">
+        <p class="text-4xl text-center">Загрузка страницы …</p>
+      <div class="preloader__item"></div>
+      <div class="preloader__item"></div>
+    </div>
+  </div>
 
   <header>
       <div class="text-gray-600 body-font ml-36">
@@ -38,7 +47,18 @@
               </h1>
               <p class="mb-8 leading-relaxed">We are  always availed to consult on taking your higher education to the next level so you can stay competitive in the global world. We welcome the opportunity to work with you "today" for "tomorrow's" better career solutions.</p>
               <div class="flex justify-center">
-                <button onclick="knopka()" class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"><span class="">Apply</span></button> <script src="script.js"></script>
+
+             
+                        
+                <a href="#win1" ><button id="knopka" class="btn inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none rounded-3xl transition duration-500 ease-in-out hover: transform hover:-translate-y-1 hover:scale-110" >
+                 Apply</button> </button></a>
+                 <a href="#win5"></a>
+                 <a href="#x" class="overlay" id="win1"></a>
+                 <div class="popup">
+                  Макет был реализован Овчарук Анной Игоревной. Вариант № 1
+                  <a class="close"title="Закрыть" href="#close"></a>
+                  </div>
+
               </div>
             </div>
             <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -250,14 +270,20 @@
     </div>
   </section>
   <div class="flex flex-col text-center w-full mb-20">
-    <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"> <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Join Here
+    <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"> 
+      <a href="#win1" ><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Join Here
       <a class="text-black inline-flex items-center md:mb-0 lg:mb-0">
         <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
           <path d="M5 12h14"></path>
           <path d="M12 5l7 7-7 7"></path>
         </svg>
       </a>
-    </button> </h1>
+    </button></a> <a href="#win5"></a>
+    <a href="#x" class="overlay" id="win1"></a>
+    <div class="popup">
+     Макет был реализован Овчарук Анной Игоревной. Вариант № 1
+     <a class="close"title="Закрыть" href="#close"></a>
+     </div></h1>
     
   </div>
   <section class="text-gray-600 body-font">
@@ -397,10 +423,15 @@
 <section class=" flex flex-col items-center">
   <div class="container bg-gray-100 py-16 flex justify-between px-48 items-center w-full">
     <p class="text-2xl">Ready to chase your dreams? </p>
-    <button class=" bg-indigo-500 flex text-white items-center px-10 py-3 rounded-lg focus:outline-none" onclick="knopka()">
+    <a href="#win1" ><button class=" bg-indigo-500 flex text-white items-center px-10 py-3 rounded-lg focus:outline-none" onclick="knopka()">
     Apply Online <img class="ml-4" src="./Images/arrow.svg" alt="">  
-    </button>
-    <script src="script.js"></script>
+    </button></a> <a href="#win5"></a>
+    <a href="#x" class="overlay" id="win1"></a>
+    <div class="popup">
+     Макет был реализован Овчарук Анной Игоревной. Вариант № 1
+     <a class="close"title="Закрыть" href="#close"></a>
+     </div>
+   
   </div>
 </section>
  
@@ -434,7 +465,7 @@
   window.onload = function () {
   document.body.classList.add('loaded_hiding');
   window.setTimeout(function () {
-  document.body.classList.add('Загрузка страницы …');
+  document.body.classList.add('loaded');
   document.body.classList.remove('loaded_hiding');}, 500);
   }
   </script>
